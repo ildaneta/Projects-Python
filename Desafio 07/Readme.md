@@ -14,4 +14,4 @@ Solicitar que o usuário digite o valor de duas notas de um aluno e com isso exi
 - [Ilda E. Silva](https://www.linkedin.com/in/ilda-silva-neta/)
 
 #### Linguagem:
-- Python
+- [Python3](https://www.python.org/)

@@ -9,7 +9,7 @@ Solicitar que o usuário digite uma frase que pode conter números e/ou letras.
 Com isso o script irá retornar se ela está escrita toda em letra maiúscula, ou toda em minúscula, se está capitalizada ou não, se é um número, dentre outras verificações.
 
 #### Autora:
-- Ilda E. Silva
+- [Ilda E. Silva](https://www.linkedin.com/in/ilda-silva-neta/)
 
 #### Linguagem:
-- Python
+- [Python3](https://www.python.org/)

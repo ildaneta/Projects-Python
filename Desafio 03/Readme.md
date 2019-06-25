@@ -11,7 +11,7 @@ Solicitar que o usuário insira dois valores inteiros e em seguida mostrará a s
 ![Exibição do programa em execução](https://raw.githubusercontent.com/ildaemanoely/Projects-Python/master/Desafio%2003/desafio03.png)
 
 #### Autora:
-- Ilda E. Silva
+- [Ilda E. Silva](https://www.linkedin.com/in/ilda-silva-neta/)
 
 #### Linguagem:
-- Python
+- [Python3](https://www.python.org/)

@@ -17,7 +17,7 @@ E em seguida informará a data formata dd/mm/aaaa e a idade do usuário
 ![Exibição do programa em execução](https://raw.githubusercontent.com/ildaemanoely/Projects-Python/master/Desafio%2002/desafio02.png)
 
 #### Autora:
-- Ilda E. Silva
+- [Ilda E. Silva](https://www.linkedin.com/in/ilda-silva-neta/)
 
 #### Linguagem:
-- Python
+- [Python3](https://www.python.org/)

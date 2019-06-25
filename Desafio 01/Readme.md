@@ -12,7 +12,7 @@ Com este script será possível digitar seu nome e com isso aparecerá uma mensa
 ![Exibição do programa em execução](https://raw.githubusercontent.com/ildaemanoely/Projects-Python/master/Desafio%2001/desafio01.png)
 
 #### Autora:
-- Ilda E. Silva
+- [Ilda E. Silva](https://www.linkedin.com/in/ilda-silva-neta/)
 
 #### Linguagem:
-- Python
+- [Python3](https://www.python.org/)

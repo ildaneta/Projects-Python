@@ -11,7 +11,7 @@ Solicitar que o usuário digite um número e com isso o script retornará o ante
 ![Exibição do programa em execução](https://raw.githubusercontent.com/ildaemanoely/Projects-Python/master/Desafio%2005/desafio05.png)
 
 #### Autora:
-- Ilda E. Silva
+- [Ilda E. Silva](https://www.linkedin.com/in/ilda-silva-neta/)
 
 #### Linguagem:
-- Python
+- [Python3](https://www.python.org/)
