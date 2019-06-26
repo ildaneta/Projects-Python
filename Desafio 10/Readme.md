@@ -1,6 +1,8 @@
 ---------------------------------------------------------------
 ## SCRIPT: Conversor da moeda Real(R$) para Dólar($) 
----------------------------------------------------------------#### Este é um projeto que tem como escopo:
+---------------------------------------------------------------
+
+#### Este é um projeto que tem como escopo:
 
 Solicitar que o usuário digite um valor em reais para que o programa lhe mostre a conversão desse valor em dólar.
 
