@@ -1,0 +1,80 @@
+from random import randint
+from time import sleep
+print('=-'*15)
+print('        JOGO JOKENPÔ')
+print('=-'*15)
+numpc = randint(0,2)
+print("""Suas opções:
+[0] PEDRA   
+[1] PAPEL
+[2] TESOURA""")
+jogada = int(input('Qual é sua jogada?: '))
+print('JO')
+sleep(1) # faz esperar 1 segundo para mostrar o próximo
+print('KEN')
+sleep(1)
+print('PO !!!')
+sleep(1)
+if jogada == 0 and numpc == 0:
+    print('Jogador jogou: Pedra')
+    print('      e ')
+    print('Computador jogou: Pedra')
+    print('=-'*8)
+    print('    EMPATE')
+    print('=-'*8)
+elif jogada == 0 and numpc == 1:
+    print('Jogador jogou: Pedra')
+    print('      e ')
+    print('Computador jogou: Papel')
+    print('=-' * 15)
+    print('    Computador Venceu')
+    print('=-' * 15)
+elif jogada == 0 and numpc == 2:
+    print('Jogador jogou: Pedra')
+    print('      e ')
+    print('Computador jogou: Tesoura')
+    print('=-' * 15)
+    print('    Jogador Venceu')
+    print('=-' * 15)
+elif jogada == 1 and numpc == 1:
+    print('Jogador jogou: Papel')
+    print('      e ')
+    print('Computador jogou: Papel')
+    print('=-' * 15)
+    print('   Empate')
+    print('=-' * 15)
+elif jogada == 1 and numpc == 0:
+    print('Jogador jogou: Papel')
+    print('      e ')
+    print('Computador jogou: Pedra')
+    print('=-' * 15)
+    print('    Jogador Venceu')
+    print('=-' * 15)
+elif jogada == 1 and numpc == 2:
+    print('Jogador jogou: Papel')
+    print('      e ')
+    print('Computador jogou: Tesoura')
+    print('=-' * 15)
+    print('    Computador Venceu')
+    print('=-' * 15)
+elif jogada == 2 and numpc == 2:
+    print('Jogador jogou: Tesoura')
+    print('      e ')
+    print('Computador jogou: Tesoura')
+    print('=-' * 15)
+    print('      Empate')
+    print('=-' * 15)
+elif jogada == 2 and numpc == 0:
+    print('Jogador jogou: Tesoura')
+    print('      e ')
+    print('Computador jogou: Pedra')
+    print('=-' * 15)
+    print('    Computador Venceu')
+    print('=-' * 15)
+elif jogada == 2 and numpc == 1:
+    print('Jogador jogou: Papel')
+    print('      e ')
+    print('Computador jogou: Tesoura')
+    print('=-' * 15)
+    print('    Jogador Venceu')
+    print('=-' * 15)
